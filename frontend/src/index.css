@@ -1,0 +1,57 @@
+body{
+  background-image: url("frontend/src/assets/house.jpg");
+}
+h1,h3
+{
+   display: flex;
+  
+   justify-content: center; 
+}
+form{
+    /* display: flex; */
+  /* align-items: center;  */
+   justify-content: center; 
+}
+button
+{ 
+  margin-top: 5px;
+  background-color: rgb(60, 202, 60);
+}
+
+body {
+  
+  background-image: url("/huse_img_2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.inside
+{
+  background-color: rgba(235, 222, 222, 0.4);
+  width: 400px;
+  height: 1000px;
+  border-radius: 30px;
+
+}
+h3,h1
+{ justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 400px;
+  background-color: rgba(168, 162, 162, 0.4);
+  border-radius: 30px;
+}
