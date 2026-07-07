@@ -1,0 +1,10 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+gunicorn
+whitenoise
+numpy
+pandas
+scikit-learn
+scipy
+joblib
